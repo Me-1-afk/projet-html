@@ -14,7 +14,7 @@ let cart = document.querySelector(".cart");
 let closecartt = document.querySelector("#close-cart");
 let count = 0;
 
-/*function createCustomAlert(content) 
+function createCustomAlert(content) 
 {
 
   let customAlert = document.getElementById("custom-alert");
@@ -25,7 +25,7 @@ let count = 0;
   customAlertClose.addEventListener("click", function() {customAlert.style.display = "none";});
 
 }
-*/
+
 
 function showsearch() {
 
